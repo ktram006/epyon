@@ -1,10 +1,10 @@
-# epyon
+### epyon
 
-:godmode: OZ13-MS HOST
+# :godmode: *Kellen Burke Richardson*
 
-    WAN Public Source Repository EPYON:
+  WAN Public Source Repository EPYON:
 
-    Online repository of source code, compiled objects, Red Team payloads, ciphertexts, and anything else I find interesting enough to play with.
+  Online repository of source code, compiled objects, Red Team payloads, ciphertexts, and anything else I find interesting enough to play with.
 
-*Kellen Burke Richardson*
+
 
