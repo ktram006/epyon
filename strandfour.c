@@ -20,9 +20,7 @@ int main (void)
 
         //  generates string of 2048 bytes from char array
 	for(index = 0; index < 2048; index++)
-	{
-          printf("%c", char1[rand() % (sizeof char1 - 1)]);
-	}
+	{printf("%c", char1[rand() % (sizeof char1 - 1)]);}
 
         //  print result on stdout <1>
 	puts("");
